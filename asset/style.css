@@ -1,7 +1,49 @@
-*{
-    background-color: aqua;
+* {
+    margin: 0px;
+    padding: 0;
 }
 
-h1 {
-    color: red;
+.header-tobar {
+    height: 50px;
+    background-color: #071C1F;
+}
+
+.top-bar-mail a {
+    font-family: popins;
+    size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    
+}
+
+.top-bar-mail i {
+    color: orangered;
+    size: 16px;
+    
+}
+
+.top-bar-address a {
+    font-family: popins;
+    size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.top-bar-address i {
+    color: orangered;
+    padding-left: 50px;
+    size: 16px;
+}
+
+.header-top-icon {
+    size: 16px;
+    color: white;
+}
+
+.header-top-icon i {
+    padding: 5px;
 }
