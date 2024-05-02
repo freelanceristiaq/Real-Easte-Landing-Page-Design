@@ -15,13 +15,13 @@
     color: white;
     text-decoration: none;
     padding-left: 10px;
-    
+
 }
 
 .top-bar-mail i {
     color: orangered;
     size: 16px;
-    
+
 }
 
 .top-bar-address a {
@@ -47,3 +47,56 @@
 .header-top-icon i {
     padding: 5px;
 }
+
+
+.navbar-brand {
+    font-family: Poppins font-size: 100px;
+    font-weight: 700;
+}
+
+.hero-bannar {
+    background-color: #F2F6F7;
+    height: 747px;
+
+}
+.hero-cont h1 {
+    font-size: 60px;
+    font-family: poppins;
+    font-weight: bold;
+
+}
+
+.hero-cont p {
+    font-size: 16px;
+    font-family: poppins;
+    line-height: 30px;
+    color: #9EABB3;
+}
+
+.hero-img {
+    width: auto;
+    height: 467px;
+    width: 705px;
+}
+
+.qoute-btn {
+    width: 234px;
+    height: 52px;
+    background-color: #FF5A3C;
+    border-radius: 10px;
+    border:none;
+    color: white;
+
+}
+
+.qoute-btn :hover{
+    width: 234px;
+    height: 52px;
+    background-color: #f67963;
+    border-radius: 10px;
+    border:none;
+    color: white;
+
+}
+
+
