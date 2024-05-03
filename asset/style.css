@@ -102,6 +102,8 @@
 .features {
     padding: 100px 0px;
     text-align: center;
+    align-items: center;
+
 }
 
 .features h2 {
@@ -109,6 +111,9 @@
  font-family: poppins;
  font-weight: 600;
  line-height: 50px;
+ width: 376px;
+ margin: auto;
+
 }
 
 .features p {
@@ -116,7 +121,12 @@
     font-family: poppins;
     line-height: 30px;
     color: #9EABB3;
+    width: 376px;
+    margin: auto;
+    padding-bottom: 100px;
+
    }
+
 
 .features-box h5 {
     font-size: 20px;
@@ -130,10 +140,40 @@
     font-family: poppins;
     color: #9EABB3
 }
-.features-box div img {
+.features-box img {
+width: 80.86px;
+height: auto;
+align-self: center;
+
+}
+
+.features-box-2{
+    background-color: #FF5A3C;
+}
+
+.features-box-2 h5 {
+    font-size: 20px;
+    font-family: poppins;
+    padding-top: 20px;
+    font-weight: 700;
+}
+
+.features-box-2 p {
+    font-size: 16px;
+    font-family: poppins;
+    color: #9EABB3
+}
+.features-box-2 div img {
 width: 80.86px;
 height: auto;
 align-self: center;
 
 }
    
+
+
+
+.footer {
+    background-color: #171717;
+    height: 400px;
+}
