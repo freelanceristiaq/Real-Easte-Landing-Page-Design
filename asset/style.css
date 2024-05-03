@@ -99,4 +99,41 @@
 
 }
 
+.features {
+    padding: 100px 0px;
+    text-align: center;
+}
 
+.features h2 {
+ font-size: 30px;
+ font-family: poppins;
+ font-weight: 600;
+ line-height: 50px;
+}
+
+.features p {
+    font-size: 16px;
+    font-family: poppins;
+    line-height: 30px;
+    color: #9EABB3;
+   }
+
+.features-box h5 {
+    font-size: 20px;
+    font-family: poppins;
+    padding-top: 20px;
+    font-weight: 700;
+}
+
+.features-box p {
+    font-size: 16px;
+    font-family: poppins;
+    color: #9EABB3
+}
+.features-box div img {
+width: 80.86px;
+height: auto;
+align-self: center;
+
+}
+   
